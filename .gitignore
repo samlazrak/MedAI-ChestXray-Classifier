@@ -222,3 +222,10 @@ validation_data/
 
 *.keras
 *.h5
+datasets/
+/Users/m3/Development/XrayBinaryAI/datasets
+datasets/*
+# Symlinks
+*.lnk
+*.symlink
+symlinks/
