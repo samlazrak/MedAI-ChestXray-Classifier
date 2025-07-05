@@ -207,7 +207,6 @@ temp/
 *.dng
 *.heic
 *.heif
-*.pdf
 
 # Dataset directories
 datasets/CXR8/images/
