@@ -1,0 +1,11 @@
+5. **Binary Classification of X-ray Images (Beginner)**
+   - **Description:** Classify chest X-rays as normal or abnormal using basic convolutional neural networks. This project covers image preprocessing, augmentation, and simple model training.
+   - **Goals:** Provide a first step toward automated radiology triage.
+   - **Methods:** Image normalization, data augmentation, simple CNN architectures.
+   - **Potential Impact:** Can help prioritize urgent cases and reduce radiologist workload.
+   - **Example ML Techniques:** Basic CNN, transfer learning with pre-trained models.
+   - **Key Challenges:** Label noise, small datasets, overfitting.
+   - **Evaluation Metrics:** Accuracy, AUROC, confusion matrix.
+   - **Possible Extensions:** Multi-class classification, explainable AI overlays, integration with clinical data.
+   - **Dataset(s):** *ChestX-ray14, MIMIC-CXR*
+   - **Difficulty:** `Beginner`
